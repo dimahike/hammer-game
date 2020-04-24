@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+.field {
+  text-align: center;
+  background-color: green;
+  height: 600px;
+  width: 885px;
+  margin: 0 auto;
+}
+
+.holes {
+  margin-top: 40px;
+  margin-left: 40px;
+  border-radius: 50%;
+  border: solid 5px;
+  height: 240px;
+  width: 240px;
+
+}
+
+.hole3, .hole6 {
+  margin-right: 40px;
+}
